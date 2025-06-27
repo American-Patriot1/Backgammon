@@ -9,6 +9,6 @@ body {
 }
 
 #backgammonCanvas {
-    background-color: #D2B48C; /* Black background for the canvas */
-    border: 10px solid #000; /* White border around the canvas */
+    background-color: #041f23; /* Black background for the canvas */
+    border: 20px solid #020215; /* White border around the canvas */
 }
